@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    GitKraken Test
                 </div>
 
                 <div class="links">
